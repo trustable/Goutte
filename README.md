@@ -81,3 +81,5 @@ Goutte is licensed under the MIT license.
 
 [1]: https://raw.github.com/fabpot/Goutte/master/goutte.phar
 
+https://www.codeship.io/projects/1cf2eaf0-70bc-0131-23e6-3ad84e4c49b9/status
+
